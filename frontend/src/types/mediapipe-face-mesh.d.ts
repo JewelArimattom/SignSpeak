@@ -1,0 +1,1 @@
+declare module "@mediapipe/face_mesh";

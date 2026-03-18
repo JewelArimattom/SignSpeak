@@ -1,0 +1,15 @@
+/data
+# Dependencies
+frontend/node_modules/
+node_modules/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Logs and env
+*.log
+.env
+.env.*
+
